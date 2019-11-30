@@ -1,0 +1,98 @@
+# binomo-100
+displey links
+
+<html>
+
+	<title>Binomo</title> 
+	
+<title>
+echo "# Aligator" >> README.md 
+git init git add README.md git commit -m «первый коммит» git remote add origin git@github.com : Alex-ai-del / Aligator.git git push -u мастер источника
+
+
+</title>
+<head>
+
+	
+		<meta charset="utf-8">
+		
+		<link rel='stylesheet' type='text/css'>
+
+	
+	     <link rel="stylesheet" href="http://fabrikamishek.com.ua/css/bootstrap.css">
+		
+		<link rel="stylesheet" href="http://fabrikamishek.com.ua/css/theme.css">
+		<link rel="stylesheet" href="http://fabrikamishek.com.ua/css/theme-elements.css">
+		
+
+        </head>
+    <body style="padding-top: 0px !Important;">
+
+
+
+		<div class="body">
+
+			<div role="main" class="main" style="padding: 10px 0;">
+
+
+<section>
+	<div class="container">
+
+		
+		<div class="col-md-6" style="text-align: center;">
+			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwRiNtgfcgRpdbH30fqpOpRVjORfCT02moNbQgWeAWaJ2q2kxa&s" width="550" height="500">
+		</div>
+		
+		<div class="col-md-6">
+			<h1 style="color: blue" style="margin-top: 0;"> Заработайте быстро и просто!<br>регистрируйся и работай!</h1>
+			<div class="white h_card_page" style="margin-bottom: 15px;">
+			</div>
+
+			<a href="https://binomo.com/ru?a=84ec06836c65" type="button" data-animation="fade" class="btn btn-danger">Регистрация</a>
+			<p class="white" style="margin-top: 25px;">Бинарный брокер Binomo<a href="https://binomo.com/ru/promo/l10?a=84ec06836c65 type=">(обзор брокера Биномо)</a> сегодня очень успешно предоставляет услуги торговли бинарными опционами, это одна из современных, сильных и динамичных компаний, уверенным форвардом на рынке. Однако в чем причина такого успеха и популярности брокера?<br> Что это – результат отлично спланированной маркетинговой политики, какое-то преувеличение или все же результат профессионализма специалистов компании и высокого качества услуг?<br> Официальный сайт <a href="https://binomo.com/ru/promo/l28?a=84ec06836c65 type=">Биномо</a> предлагает в качестве показателя стартовой стоимости бинарных опционов инвестиции всего в 1 доллар или же 100 рублей. Это также позволяет говорить о максимальной комфортности работы, сбалансированности параметров бинарной торговли, это поможет трейдеру и в вопросе грамотного и эффективного управления капиталом. Так, любой трейдер может  достичь на бинарном рынке впечатляющих результатов, что следует считать большим преимуществом компании
+			</p>
+		</div>
+
+		<div class="col-md-12" style="float: left; margin-left: 20px; margin: 20px 0 0 0;">
+		
+		
+        <div align="justify" style="margin-left: 10px;"><h1 style="color: blue">
+Торговый терминал брокера</h1> 
+
+
+
+ <section> 
+	  
+      <div class="col-md-6" style="text-align: center;">
+         <iframe src="https://www.youtube.com/embed/B-9Lsyqq5F8" frameborder="0" width="500" height="300" webkitallowfullscreen mozallowfullscreen allowfullscreen >
+		      </iframe>
+       <div/>
+</section>
+ 
+   <p style="color: white"> 
+Терминал брокера бинарных опционов Binomo, как основное пространство для торгов, уникален, но в то же время он простой и функциональный. Компания является бесспорным лидером в разработке высококачественного программного обеспечения для частной торговли бинарными опционами.
+
+Именно Binomo является первым брокером, который предложил своему пользователю торговый терминал для интернет-трейдинга!<br> Невзирая на то, что во время выхода на рынок платформы брокера в 2015 году в области трейдинга произошла, можно сказать, настоящая революция, компания не планировала останавливаться на достигнутом, продолжала совершенствовать свой сервис. Сегодня терминал заслуженно называют одним из функциональных и комфортных для  бинарного трейдинга, он предоставляет следующий технический и аналитический функционал:
+
+Оптимальный размер графика котировок с настройками, которые способствуют повышению результативности торгов: история котировок, выбор таймфреймов, масштабирование, настройка комфортного режима подсветки;
+Целый комплекс сервисов для качественного прогнозирования рынка: индикаторы действительно профессионального уровня, дополнительные графические сервисы для технического анализа;
+Большой выбор активов для работы (80 единиц);
+Контракты с доходностью высокого уровня (до 87%);
+Разные форматы опционов: стандартные (бинарные), турбо-опционы;
+Экспирация от 1 минуты и до суток;Простой и понятный для новичка интерфейс терминала брокера.Отметим и то, что в терминале созданы комфортные условия работы, которые позволят трейдеру добиться стабильно высоких финансовых показателей в торговле бинарными опционами.</p></div>
+
+		</div>
+</section>
+
+
+								<section style="background-color: rgb(255, 255, 255); background-image: url(gimg/food.png); padding-bottom: 0px;; background-repeat: initial initial;margin-top: 30px;">
+							
+          <div>
+<a href="https://binomo.com?a=84ec06836c65"><img src="https://a.binpartner.com/uploads/b/1523637954_file_74627ae1.gif"width="1350"height="250" /></a>
+        </div>
+  
+    <section/>
+          
+  </body>
+
+</html>
